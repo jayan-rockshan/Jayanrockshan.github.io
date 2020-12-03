@@ -652,9 +652,6 @@ footer{
 			nav .menu-btn:checked ~ .menu{
 				display:block;
 			}
-	
-}
-@media(max-width:280px){
 	.text-container p:nth-child(2){
 		line-height: 40px;
 		margin: 0px;
@@ -673,5 +670,7 @@ footer{
 		font-size:20px;
 		
 		
-	}	
+	}
+	
 }
+
